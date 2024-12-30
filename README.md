@@ -13,17 +13,6 @@ Este é um projeto de Decodificador de Texto desenvolvido em HTML, CSS e JavaScr
 - Apenas letras minúsculas e sem acento são permitidas.
 - Regras de substituição específicas serão aplicadas para criptografar e descriptografar o texto.
 
-## Como Utilizar
-
-1. Clone este repositório para o seu computador:
-
-   ```bash
-   git clone https://github.com/seu-usuario/decodificador-de-texto.git
-
-- Navegue até o diretório do projeto
-
-- Abra o arquivo index.html no seu navegador preferido.
-
 ## Tecnologias Utilizadas
 - HTML
 - CSS
